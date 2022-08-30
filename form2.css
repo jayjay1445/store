@@ -1,0 +1,76 @@
+.body{
+    background-color: white;
+    width: auto;
+}
+.container{
+    max-width: 350px;
+    margin: auto;
+}
+.table{
+    width: 300px;
+    background-color: lightblue;
+    margin-top: 40px;
+    height: 600px;
+}
+#text{
+    background: transparent;
+    border: none;
+    color: blue;
+    border-bottom: 2px solid;
+    font-size: larger;
+    width: 200px;
+    margin-bottom: 20px;
+}
+#password{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid;
+    color: blue;
+    font-size: larger;
+    width: 200px;
+    margin-bottom: 20px;
+}
+.forp{
+    font-size: small;
+    font-family: sans-serif;
+}
+#submit{
+    margin-top: 20px;
+    width: 250px;
+    height: 30px;
+    font-size: large;
+    font-family: sans-serif;
+    background-color: blue;
+    color: white;
+    margin-bottom: 20px;
+}
+.don{
+    font-size: small;
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 10px;
+}
+.don a{
+    text-decoration: none;
+    color: teal;
+}
+.or{
+    font-size: larger;
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 10px;
+}
+.log{
+    font-size: small;
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.fa-brands{
+    padding: 15px;
+}
